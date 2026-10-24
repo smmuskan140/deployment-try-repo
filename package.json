@@ -1,0 +1,14 @@
+{
+  "name": "event-driven-architecture-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A small example of event-driven architecture and resilient service calls",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
